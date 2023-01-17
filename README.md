@@ -19,6 +19,7 @@ Moro em Belo Horizonte-MG
 
 ## Meus contatos
 
+- Linkedin www.linkedin.com/in/guilherme-silva-devjunior/
 - Instagram @gui_alvs
 - Github @guiguidev11
 - Email guilherrmetwister@gmail.com
