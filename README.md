@@ -15,7 +15,7 @@ Moro em Belo Horizonte-MG
 
 - git e github
 - dotnet
-- javascript
+- typescript
 
 ## Meus contatos
 
