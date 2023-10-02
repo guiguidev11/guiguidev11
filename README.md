@@ -14,7 +14,6 @@ Moro em Belo Horizonte-MG
 ## Atualmente estudando
 
 - git e github
-- dotnet
 - typescript
 
 ## Meus contatos
