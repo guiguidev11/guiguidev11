@@ -5,12 +5,6 @@ Olá, eu sou o Guilherme Alves, eu sou aluno da Estácio, atualmente cursando o 
 
 Moro em Belo Horizonte-MG
 
-## Meus hobbies
-
-- Praticar esportes
-- Jogar videogames
-- Assistir series
-
 ## Atualmente estudando
 
 - git e github
