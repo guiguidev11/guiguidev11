@@ -34,8 +34,6 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/guiguidev11/guiguidev11/output/snake.svg" alt="Snake animation" />
 
 ###
